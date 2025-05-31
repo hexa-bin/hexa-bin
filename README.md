@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/17396115?s=400&v=4" width="160" alt="Mr. Hex Avatar" />
+  <img src="assets/My-Avatar.png" width="160" alt="Mr. Hex Avatar" />
 </p>
 
 
