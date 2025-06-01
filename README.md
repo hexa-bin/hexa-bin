@@ -5,9 +5,9 @@
 <h1 align="center">👋 Hi, I’m Mr. Hex</h1>
 
 <p align="center">
-  🧑‍💻 Python Security Tools • 🛡️ Ethical Hacking Projects • 🔄 Red, Blue & Purple Teaming  
+  🔐 Cybersecurity & Lab Simulations • 🐍 Python Automation • 🔄 Red, Blue & Purple Team Focus  
   <br>
-  Exploring the offensive and defensive sides of cybersecurity through hands-on labs.
+  Exploring the offensive and defensive sides of cybersecurity through hands-on projects.
 </p>
 
 ---
