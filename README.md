@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/My-Avatar.png" width="160" alt="Mr. Hex Avatar" />
+  <img src="assets/BAvatar.png" width="160" alt="Mr. Hex Avatar" />
 </p>
 
 
