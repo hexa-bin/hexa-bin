@@ -2,21 +2,22 @@
   <img src="assets/BAvatar.png" width="160" alt="Mr. Hex Avatar" />
 </p>
 
-
 <h1 align="center">👋 Hi, I’m Mr. Hex</h1>
 
 <p align="center">
-  🧑‍💻 Ethical Hacker • 🐍 Python Developer • 🛡️ Cybersecurity Instructor<br>
-  👨‍🏫 Helping learners build real-world labs for ethical hacking and red-team practice.
+  🧑‍💻 Python Security Tools • 🛡️ Ethical Hacking Projects • 🔄 Red, Blue & Purple Teaming  
+  <br>
+  Exploring the offensive and defensive sides of cybersecurity through hands-on labs.
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔐 Founder of **CryptoLock Ransomware POC Lab**
-- 👨‍🏫 Teaching [Udemy Course on Ethical Ransomware Simulations](https://www.udemy.com/course/ethical-hacking-build-ransomware-with-control-center-poc/)
-- 🎓 Focused on **cybersecurity education**, red-team training, and malware analysis.
+- 🐍 Building Python-based cybersecurity tools and simulations  
+- 🧪 Designing practical labs for both offensive and defensive learning  
+- 🔐 Interested in red teaming, blue strategies, and purple team workflows  
+- 🎯 Passionate about hands-on security education and malware behavior emulation
 
 ---
 
@@ -24,35 +25,38 @@
 
 | Project              | Description                                                  |
 |----------------------|--------------------------------------------------------------|
-| 🔐 **[Ransomware-POC](https://github.com/hexa-bin/Ransomware-POC)** | Full lab: Python + PHP ransomware simulation with GUI + C2 |
-| 🔎 StegoTools        | (Coming Soon) CLI toolset for steganography training         |
-| 🛡️ ThreatLab         | (Coming Soon) Curated red-team simulation playbooks          |
+| 🔐 **[Ransomware-POC](https://github.com/hexa-bin/Ransomware-POC)** | Python + PHP ransomware simulator for ethical lab use |
+| 🔓 **[Password Cracker Lab](https://www.udemy.com/course/ethical-hacking-build-your-own-password-cracker-with-python)** | Crack ZIP, Word, PDF, Excel — brute force & dictionary attacks |
+| 🔎 StegoTools        | *(Coming Soon)* CLI toolkit for steganography training        |
+| 🛡️ ThreatLab         | *(Coming Soon)* Hybrid red-blue simulation environments       |
 
 ---
 
-### 💡 What I Teach
+### 💡 What I Work On
 
-- Python scripting for hacking & automation  
-- Ransomware behavior simulation (educational use)  
-- API exploitation and C2 channel building  
-- Ethical lab deployment and threat emulation  
+- Python scripting for cyber tooling and simulation  
+- File encryption, password cracking, malware behavior labs  
+- Lab environments simulating attacker vs defender interactions  
+- Blending red/blue tactics into purple team-style challenges
 
 ---
 
-### 📦 Latest Course
+### 📚 Courses & Resources
 
-> 🚨 **[Build Ethical Ransomware with Control Center (Udemy)](https://www.udemy.com/course/ethical-hacking-build-ransomware-with-control-center-poc/)**  
-> Learn to build safe simulations using Python, PHP, GUI logic, and EXE wrangling.  
-> 🎓 390+ Students • ⭐ 4.8 ★ • Certificate Included
+> 🎓 **[Build Ethical Ransomware with Control Center](https://www.udemy.com/course/ethical-hacking-build-ransomware-with-control-center-poc/)**  
+> Simulate ransomware behavior with Python, GUI & PHP backend  
+> ⭐ 4.8 ★ | 390+ Students
+
+> 🔐 **[Build a Password Cracker with Python](https://www.udemy.com/course/ethical-hacking-build-your-own-password-cracker-with-python)**  
+> Crack ZIP, Word, PDF, Excel — brute force & dictionary attacks  
+> ⭐ 5.0 ★ | 1,000+ Students
 
 ---
 
 ### 🧭 Connect With Me
 
-- GitHub: [@hexa-bin](https://github.com/hexa-bin)
-- 💬 Discord: Coming Soon
-- 💼 LinkedIn: (optional link)
-- 🌐 Portfolio: Coming Soon
+- GitHub: [@hexa-bin](https://github.com/hexa-bin)  
+
 
 ---
 
